@@ -1,0 +1,25 @@
+# UNIPDroidians  
+**Website:** unipdroidians.com  
+
+## 🔧 Sobre o projeto  
+UNIPDroidians é o grupo de robótica da UNIP empenhado em desenvolver soluções para robôs domésticos e participar da RoboCup At Home. Este repositório reúne código-fonte, tutoriais e documentação para:
+
+- Instalação e configuração do sistema (ex: Ubuntu 22.04 + ROS 2 Humble)  
+- Controle de robô, percepção por câmera/LIDAR, manipulação com braços 6-DOF  
+- Integração de QA offline, visão computacional, SLAM, e automação de tarefas domésticas  
+
+
+## 📁 Conteúdo do repositório   (EM BREVE!!!!)
+- `/src` — código-fonte dos nós ROS, drivers, wrappers e scripts de controle  
+- `/launch` — arquivos de lançamento para SLAM, manipulação, visão etc.  
+- `/docs` — documentação, tutoriais, guias de instalação e uso  
+- `/sim` — mundos e arquivos de simulação (Gazebo, RViz)  
+- `/README.md` — este arquivo de apresentação  
+
+## 🤝 Contribuição  
+Contribuidores são bem-vindos! Para contribuir:  
+
+1. fork este repositório  
+2. crie uma branch com a feature ou correção (`feature/xyz`)  
+3. commit suas mudanças e faça pull request  
+
