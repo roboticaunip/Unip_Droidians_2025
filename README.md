@@ -3,8 +3,8 @@
 🌐 Website: unipdroidians.com  
 
 <p align="center">
-  <img src="images/robo.png" alt="UNIPDroidians Robot Platform" width="45%" />
-  <img src="imagens/desenhorobo.png" alt="UNIPDroidians Team" width="45%" />
+  <img src="images/robo.jpeg" alt="UNIPDroidians Robot Platform" width="45%" />
+  <img src="imagens/desenho robo." ajpeglt="UNIPDroidians Team" width="45%" />
 </p>
 
 ---
