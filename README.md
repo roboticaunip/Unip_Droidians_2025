@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="images/robo.jpeg" alt="UNIPDroidians Robot Platform" width="45%" />
-  <img src="imagens/desenho robo.jpeg" ajpeglt="UNIPDroidians Team" width="45%" />
 </p>
 
 ---
